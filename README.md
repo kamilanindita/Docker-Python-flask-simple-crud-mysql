@@ -6,7 +6,7 @@ ___
 
 #### 1. Clone <a href="https://github.com/kamilanindita/python-flask-simple-crud-mysql">python-flask-simple-crud-mysql</a>
 
-#### 2. Masukan file (Dockerfile dan docker-compose) ke dalam directory utama(root) 
+#### 2. Masukan file (Dockerfile, docker-compose dan requirements.txt) ke dalam directory utama(root) 
 
 #### 3. Konfigurasi environment database
 ![Image of RUN Env](https://drive.google.com/uc?export=view&id=1jBOENZcvQtidEP0TePG3WSR1xnZ7UqjI)
