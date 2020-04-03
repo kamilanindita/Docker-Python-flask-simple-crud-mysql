@@ -14,6 +14,12 @@ ___
 #### 4. RUN dengan perintah docker-compose up -d
 ![Image of RUN Docker Compose](https://drive.google.com/uc?export=view&id=1K4nMjjALgXQ0mWvR_jmMPPiqMoAs9nbd)
 
+![Image of RUN Docker Compose](https://drive.google.com/uc?export=view&id=1eXfX0Ve3Ver7qGx-EHjFCZufNF8Iv0yg)
+
+![Image of RUN Docker Compose](https://drive.google.com/uc?export=view&id=1XN89asJRWwbPvqkq6RgZxNX_zNkUZDSE)
+
+![Image of RUN Docker Compose](https://drive.google.com/uc?export=view&id=1F_s36LmnZ4EOvJYDD-cVgeo1WxjTzqOH)
+
 #### 5. Import database
 ![Image of Import DB](https://drive.google.com/uc?export=view&id=14dGQGQHi0ErwpagsjHbafHmms92YJAh6)
 
